@@ -10,7 +10,7 @@ const ArrayUseState = () => {
         setPerson((person) => [...person,['ram']])
 
     }
-
+    
     console.log('ArrayUseState rendered');
 
     return ( 
